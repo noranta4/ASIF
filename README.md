@@ -10,7 +10,7 @@ It is a self-contained notebook useful to run ASIF models based on different bac
 ### Notebook content
 - Setup of the ASIF model
 - DEMO1: Zero-shot classification experiment (Fig. 5 in the paper)
-- DEMO2: Calculate the similarity between uploaded image and text inputs
+- DEMO2: Calculate the similarity between uploaded images and texts
 - DEMO3: Interpretability demo: deep dive into a classification
 - DEMO4: Universal classifier using images from your webcam 
 
