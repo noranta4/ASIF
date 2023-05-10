@@ -69,7 +69,7 @@ class EmbeddedDataset():
         else:
             ztxts = text_encoder.encode(self.texts)
             zimgs, im_labels = embeddings_from_dl(image_encoder, self.loader, dl_with_labels=True)
-        return zimgs[:self.subsample_size], ztxts, im_labels
+        return zimgs[:self.subsample_size], ztxts, im_labels[:self.subsample_size]
 
 
 class EmbeddedImagenet(EmbeddedDataset):
