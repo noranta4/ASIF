@@ -36,7 +36,7 @@ By: [Antonio Norelli](https://noranta4.com/),
 
 Click on the big blue button [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noranta4/ASIF/blob/main/ASIF_colab_demo.ipynb) and run all the cells of the notebook. That's it.
 
-You can adjust backbones and datasets through the convenient drop-down menus. 
+You can adjust backbones and datasets using the convenient drop-down menus. 
 
 ## Cite
 If you liked our work and want to cite it in yours:
