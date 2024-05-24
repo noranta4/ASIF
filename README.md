@@ -41,12 +41,11 @@ You can adjust backbones and datasets using the convenient drop-down menus.
 ## Cite
 If you liked our work and want to cite it in yours:
 ```
-@article{norelli2022asif,
-  title     = {ASIF: coupled data turns unimodal models to multimodal without training},
-  author    = {Antonio Norelli and Marco Fumero and Valentino Maiorca and Luca Moschella and E. Rodolà and Francesco Locatello},
-  journal   = {ARXIV.ORG},
-  year      = {2022},
-  doi       = {10.48550/arXiv.2210.01738},
-  bibSource = {Semantic Scholar https://www.semanticscholar.org/paper/3703547b3efd1040a6fcf0b05a3624e900364ae8}
+@article{norelli2024asif,
+  title={ASIF: Coupled data turns unimodal models to multimodal without training},
+  author={Norelli, Antonio and Fumero, Marco and Maiorca, Valentino and Moschella, Luca and Rodola, Emanuele and Locatello, Francesco},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
 }
 ```
